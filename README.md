@@ -5,8 +5,19 @@
 # AIM
 
 # SOFTWARE REQUIRED
+Google Colab
 
 # ALGORITHMS
+1. Initialize system parameters like bit rate, chip rate, carrier frequency, and sampling rate.
+2. Generate random binary data of specified length.
+3. Generate a PN sequence consisting of ±1 chips.
+4. Map binary data to BPSK symbols, where 0 → -1 and 1 → +1.
+5. Spread the signal by multiplying each BPSK-modulated bit with the PN sequence.
+6. Calculate total samples for carrier modulation and create a time array.
+7. Generate a cosine carrier wave at the given frequency.
+8. Upsample the spread signal by repeating chips to match the carrier sampling rate.
+9. Multiply the upsampled signal with the carrier to generate the modulated waveform.
+10. Plot the spread signal and modulated waveform to visualize DSSS and BPSK modulation.
 
 # PROGRAM
     import numpy as np
