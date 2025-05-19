@@ -86,7 +86,7 @@
 
 
 # OUTPUT
-![Screenshot 2025-05-19 205550](https://github.com/user-attachments/assets/c248cfb5-5f34-4db2-98a4-337963da2326)
+![image](https://github.com/user-attachments/assets/87688e8d-b271-45a3-bd41-3c27b55d4c58)
 
 
  
