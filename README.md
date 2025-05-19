@@ -3,6 +3,7 @@
 11.Simulation of Spread Spectrum Modulation Techniques
 
 # AIM
+To simulate Direct Sequence Spread Spectrum (DSSS) modulation using Binary Phase Shift Keying (BPSK) and analyze its impact on signal spreading and interference resistance.
 
 # SOFTWARE REQUIRED
 Google Colab
@@ -102,3 +103,4 @@ Google Colab
 
  
 # RESULT / CONCLUSIONS
+Thus, the simulation of Spread Spectrum Modulation Techniques such as Direct Sequence Spread Spectrum (DSSS) modulation using Binary Phase Shift Keying (BPSK) is carried out successfully.
